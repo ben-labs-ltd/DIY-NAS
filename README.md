@@ -8,7 +8,7 @@ The HDD Backplane is designed for the cage designed by [heron on printables](htt
 
 ### I want one!
 
-Fantastic, i have included the production files (with JLCPCB in mind) so that you can make this yourself for your home NAS dreams, find them in /HDD Backplane/production and then (buy me a coffee)[https://www.buymeacoffee.com/benjaminky4] ;).
+Fantastic, i have included the production files (with JLCPCB in mind) so that you can make this yourself for your home NAS dreams, find them in /HDD Backplane/production and then [buy me a coffee](https://www.buymeacoffee.com/benjaminky4) ;).
 
 Alternatively, you can buy one from me, assembled and validated for $25+p&p (in GBP equivalent). Please enquire with me at ben@ben-labs.co.uk and I will get one shipped to you (there might be a lead time if there is interest)
 
