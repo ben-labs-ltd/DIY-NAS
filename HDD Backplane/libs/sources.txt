@@ -1,0 +1,1 @@
+SATA.kicad_sym -> https://github.com/system76/thelio-io-hardware 

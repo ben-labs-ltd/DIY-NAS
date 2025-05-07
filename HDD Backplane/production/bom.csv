@@ -1,0 +1,4 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"J1, J10, J12, J2, J3, J5",SATA_Combined,6,SATA_COMBINED_22,
+"J13, J14",xess-MOLEX-8981-04P,2,Conn_01x04_Pin,
+"J7_6, J7_5, J7_4, J7_3, J7_2, J7",SATA_Data,6,SATA_DATA_7,
